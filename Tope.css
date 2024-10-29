@@ -1,0 +1,51 @@
+#rel{
+    color:  hsl(332, 51%, 32%);
+    font-weight: 600; 
+    font-size: 1rem;
+    padding-bottom: .25rem;
+ }
+ .tg{
+    color:black;
+    font-weight: 500;
+    padding-top: 8px;
+ }
+ .yt{
+    color: gray;
+
+ }
+ .hj{
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 1rem;
+    padding: 1.5rem ;
+ }
+ .kl{
+    color: hsl(14, 45%, 36%);
+    font-family:'Young Serif', serif ;
+    font-weight: 400;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+ }
+ .ko{
+  color: hsl(14, 45%, 36%);
+  font-family:'Young Serif', serif ;
+  font-weight: 400;
+  font-size: 1.5rem;
+ padding: 1rem 0;
+ }
+ table {
+    border-collapse: separate;
+    width: 100%;
+  }
+  
+  td, th {
+    border-bottom: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+  }
+  .underline{
+    border-bottom: 1px solid hsl(14, 45%, 36%) ;
+    padding-top: 1.5rem; 
+  }
+  ul,ol{
+      padding-left: 1.3rem;
+  }
